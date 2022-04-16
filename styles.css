@@ -1,0 +1,12 @@
+.press {
+    padding:1rem;
+    font-size: 4rem;
+}
+
+div {
+   font-family: 'Courier New', Courier, monospace;
+   border: 3px solid black;
+   border-radius: 25px;
+   padding:3rem;
+
+}
